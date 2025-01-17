@@ -7,9 +7,35 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< HEAD
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+=======
+    <orderEntry type="library" name="jar_files" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/jar_files" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/jar_files" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/gson-2.8.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+>>>>>>> 45a3587948555dd961c7ef7e546fa1da1ba12ecc
           <root url="jar://$USER_HOME$/Downloads/gson-2.9.1.jar!/" />
         </CLASSES>
         <JAVADOC />
